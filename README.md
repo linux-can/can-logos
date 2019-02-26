@@ -15,6 +15,13 @@ SocketCANFD
 </p>
 
 <p align="center">
+<img src="https://github.com/linux-can/can-logos/raw/master/png/SocketCANXL-logo-60dpi.png" alt="SocketCAN XL logo"/>
+</p>
+<p align="center">
+SocketCANXL
+</p>
+
+<p align="center">
 <img src="https://github.com/linux-can/can-logos/raw/master/png/SocketCAN-logo-flat-60dpi.png" alt="SocketCAN flat logo"/>
 </p>
 <p align="center">
